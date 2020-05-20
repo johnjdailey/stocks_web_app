@@ -20,7 +20,6 @@ https://stock-analysis-web-app.herokuapp.com/
 ### Future Work
 
 - ~~make into web app (on Heroku)~~
-- tidy up formatting
 - individual stocks statistics
 - caching of data upload when refreshing the page
 - ability for users to upload their own csv of stocks for their own index
