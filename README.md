@@ -1,5 +1,5 @@
 # stocks_web_app
-Plotly-dash web application: Create a custom weighted index to evaluate group of semiconductor stocks
+Plotly-dash web application: Create a custom weighted index to evaluate group of semiconductor stocks!
 
 Currently tracks the following stocks:
   - Applied Materials (AMAT)
